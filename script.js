@@ -42,6 +42,8 @@ const calculer = (valeur) =>{
 
 
 
+
+
 // Calculatrice mode console
 
 console.log("Pour utiliser la calculatrice: ");
